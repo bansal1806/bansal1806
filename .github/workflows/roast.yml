@@ -1,0 +1,47 @@
+name: daily AI commit roast
+
+on:
+  schedule:
+    - cron: "30 3 * * *" # 9:00 AM IST daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-updates
+  cancel-in-progress: false
+
+jobs:
+  roast:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Anthropic SDK
+        run: npm install --no-save @anthropic-ai/sdk
+
+      - name: Generate the roast
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/roast.js
+
+      - name: Refresh live stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/live.js
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Readme.md
+          git diff --cached --quiet || git commit -m "🤖 daily roast + live stats"
+          git pull --rebase origin main
+          git push origin main

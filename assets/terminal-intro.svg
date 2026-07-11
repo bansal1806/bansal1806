@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" role="img" aria-label="animated terminal introduction">
+  <style>
+    text { font-family: 'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace; font-size: 17px; }
+    .prompt  { fill: #7ee787; font-weight: bold; }
+    .cmd     { fill: #e6edf3; }
+    .out     { fill: #79c0ff; }
+    .accent  { fill: #d2a8ff; }
+    .ok      { fill: #56d364; }
+    .dim     { fill: #8b949e; font-size: 14px; }
+    .title   { fill: #8b949e; font-size: 14px; }
+  </style>
+
+  <!-- window -->
+  <rect x="2" y="2" width="896" height="426" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="2" y="2" width="896" height="44" rx="14" fill="#161b22"/>
+  <rect x="2" y="32" width="896" height="14" fill="#161b22"/>
+  <circle cx="30" cy="24" r="7" fill="#ff5f57"/>
+  <circle cx="54" cy="24" r="7" fill="#febc2e"/>
+  <circle cx="78" cy="24" r="7" fill="#28c840"/>
+  <text x="450" y="29" text-anchor="middle" class="title">shourya@devforge: ~</text>
+
+  <!-- line 1: whoami (typed) -->
+  <clipPath id="t1"><rect x="36" y="70" width="0" height="28">
+    <animate attributeName="width" from="0" to="300" begin="0.6s" dur="0.8s" fill="freeze"/>
+  </rect></clipPath>
+  <text x="36" y="90" clip-path="url(#t1)"><tspan class="prompt">shourya@devforge:~$</tspan><tspan class="cmd"> whoami</tspan></text>
+
+  <!-- line 2: output -->
+  <text x="36" y="122" class="out" opacity="0">Shourya Bansal — Full-Stack Developer · AI Builder · System Design Nerd
+    <animate attributeName="opacity" from="0" to="1" begin="1.7s" dur="0.4s" fill="freeze"/>
+  </text>
+
+  <!-- line 3: load skills (typed) -->
+  <clipPath id="t2"><rect x="36" y="150" width="0" height="28">
+    <animate attributeName="width" from="0" to="380" begin="2.5s" dur="0.9s" fill="freeze"/>
+  </rect></clipPath>
+  <text x="36" y="170" clip-path="url(#t2)"><tspan class="prompt">shourya@devforge:~$</tspan><tspan class="cmd"> ./load_skills.sh --all</tspan></text>
+
+  <!-- line 4: progress bar (sweep reveal = filling effect) -->
+  <clipPath id="t3"><rect x="36" y="182" width="0" height="28">
+    <animate attributeName="width" from="0" to="830" begin="3.7s" dur="1.6s" fill="freeze"/>
+  </rect></clipPath>
+  <text x="36" y="202" clip-path="url(#t3)" class="ok">[██████████████████████████] 100%  TypeScript · Go · Rust · Python · AWS · K8s ✓</text>
+
+  <!-- line 5: mission (typed) -->
+  <clipPath id="t4"><rect x="36" y="230" width="0" height="28">
+    <animate attributeName="width" from="0" to="360" begin="5.7s" dur="0.9s" fill="freeze"/>
+  </rect></clipPath>
+  <text x="36" y="250" clip-path="url(#t4)"><tspan class="prompt">shourya@devforge:~$</tspan><tspan class="cmd"> cat current_mission.txt</tspan></text>
+
+  <!-- line 6: mission output -->
+  <text x="36" y="282" class="accent" opacity="0">🚀 Building DevForge — a next-generation GitHub with real-time collab + AI insights
+    <animate attributeName="opacity" from="0" to="1" begin="6.9s" dur="0.4s" fill="freeze"/>
+  </text>
+
+  <!-- line 7: fun fact -->
+  <clipPath id="t5"><rect x="36" y="310" width="0" height="28">
+    <animate attributeName="width" from="0" to="330" begin="7.7s" dur="0.8s" fill="freeze"/>
+  </rect></clipPath>
+  <text x="36" y="330" clip-path="url(#t5)"><tspan class="prompt">shourya@devforge:~$</tspan><tspan class="cmd"> fortune</tspan></text>
+
+  <text x="36" y="362" class="dim" opacity="0">"I don't just build projects — I design them as full-scale products." — me, probably at 3am
+    <animate attributeName="opacity" from="0" to="1" begin="8.7s" dur="0.4s" fill="freeze"/>
+  </text>
+
+  <!-- final prompt + blinking cursor -->
+  <text x="36" y="400" opacity="0"><tspan class="prompt">shourya@devforge:~$</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="9.4s" dur="0.2s" fill="freeze"/>
+  </text>
+  <rect x="248" y="386" width="10" height="19" fill="#7ee787" opacity="0">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" begin="9.6s" repeatCount="indefinite"/>
+  </rect>
+</svg>

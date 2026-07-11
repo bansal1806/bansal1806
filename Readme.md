@@ -17,6 +17,19 @@
   </a>
 </div>
 
+<!-- ═══════════════════════ TERMINAL BOOT ═══════════════════════ -->
+<div align="center">
+  <img src="assets/terminal-intro.svg" width="90%" alt="animated terminal introduction" />
+</div>
+
+<!-- LIVE:START -->
+<div align="center">
+
+⚡ **Live stats warming up** — refreshed automatically every 6 hours 🕒
+
+</div>
+<!-- LIVE:END -->
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="rainbow divider" />
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
@@ -66,8 +79,8 @@
 # 📊 GitHub Universe
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bansal1806&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansal1806&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" height="170" alt="top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bansal1806&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="github stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bansal1806&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" height="170" alt="top languages" />
 </div>
 
 <div align="center">
@@ -75,11 +88,22 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bansal1806&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=-1&margin-w=10" alt="trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bansal1806&theme=tokyonight" width="95%" alt="profile summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bansal1806&theme=tokyonight&utcOffset=5.5" height="180" alt="commit time chart" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bansal1806&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="contribution graph" />
+</div>
+
+<!-- ═══════════════════════ 3D SKYLINE ═══════════════════════ -->
+# 🏙️ My Commits as a 3D City
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3d contribution skyline" />
 </div>
 
 <!-- ═══════════════════════ PACMAN GAME ═══════════════════════ -->
@@ -98,6 +122,12 @@
 <!-- ═══════════════════════ FUN ZONE ═══════════════════════ -->
 # 😄 Daily Dose of Dev
 
+<!-- ROAST:START -->
+> 🔥 **Claude's verdict on my last 24h of commits**:
+>
+> *"Warming up the roasting chamber... check back tomorrow morning!"*
+<!-- ROAST:END -->
+
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="dev joke" />
 </div>
@@ -105,6 +135,27 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
+
+<!-- ═══════════════════════ TIC-TAC-TOE ═══════════════════════ -->
+# 🎯 Play Tic-Tac-Toe Against My Bot — Right Here!
+
+<!-- TTT:START -->
+<div align="center">
+
+<table>
+  <tr><td><a href="https://github.com/bansal1806/bansal1806/issues/new?title=ttt%7Cmove%7C0&body=Just%20press%20'Create'%20%E2%80%94%20the%20bot%20replies%20in%20~30%20seconds!%20%F0%9F%8E%AE"><img src="assets/ttt/blank.svg" width="72" alt="play cell 0" /></a></td><td><a href="https://github.com/bansal1806/bansal1806/issues/new?title=ttt%7Cmove%7C1&body=Just%20press%20'Create'%20%E2%80%94%20the%20bot%20replies%20in%20~30%20seconds!%20%F0%9F%8E%AE"><img src="assets/ttt/blank.svg" width="72" alt="play cell 1" /></a></td><td><a href="https://github.com/bansal1806/bansal1806/issues/new?title=ttt%7Cmove%7C2&body=Just%20press%20'Create'%20%E2%80%94%20the%20bot%20replies%20in%20~30%20seconds!%20%F0%9F%8E%AE"><img src="assets/ttt/blank.svg" width="72" alt="play cell 2" /></a></td></tr>
+  <tr><td><a href="https://github.com/bansal1806/bansal1806/issues/new?title=ttt%7Cmove%7C3&body=Just%20press%20'Create'%20%E2%80%94%20the%20bot%20replies%20in%20~30%20seconds!%20%F0%9F%8E%AE"><img src="assets/ttt/blank.svg" width="72" alt="play cell 3" /></a></td><td><a href="https://github.com/bansal1806/bansal1806/issues/new?title=ttt%7Cmove%7C4&body=Just%20press%20'Create'%20%E2%80%94%20the%20bot%20replies%20in%20~30%20seconds!%20%F0%9F%8E%AE"><img src="assets/ttt/blank.svg" width="72" alt="play cell 4" /></a></td><td><a href="https://github.com/bansal1806/bansal1806/issues/new?title=ttt%7Cmove%7C5&body=Just%20press%20'Create'%20%E2%80%94%20the%20bot%20replies%20in%20~30%20seconds!%20%F0%9F%8E%AE"><img src="assets/ttt/blank.svg" width="72" alt="play cell 5" /></a></td></tr>
+  <tr><td><a href="https://github.com/bansal1806/bansal1806/issues/new?title=ttt%7Cmove%7C6&body=Just%20press%20'Create'%20%E2%80%94%20the%20bot%20replies%20in%20~30%20seconds!%20%F0%9F%8E%AE"><img src="assets/ttt/blank.svg" width="72" alt="play cell 6" /></a></td><td><a href="https://github.com/bansal1806/bansal1806/issues/new?title=ttt%7Cmove%7C7&body=Just%20press%20'Create'%20%E2%80%94%20the%20bot%20replies%20in%20~30%20seconds!%20%F0%9F%8E%AE"><img src="assets/ttt/blank.svg" width="72" alt="play cell 7" /></a></td><td><a href="https://github.com/bansal1806/bansal1806/issues/new?title=ttt%7Cmove%7C8&body=Just%20press%20'Create'%20%E2%80%94%20the%20bot%20replies%20in%20~30%20seconds!%20%F0%9F%8E%AE"><img src="assets/ttt/blank.svg" width="72" alt="play cell 8" /></a></td></tr>
+</table>
+
+**You are ❌ — click an empty square to play!** The bot 🤖 replies in ~30 seconds.
+
+🧑 Humans **0** · 🤖 Bot **0** · 🤝 Draws **0** · 🎮 Games played **0**
+
+</div>
+<!-- TTT:END -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider" />
 
