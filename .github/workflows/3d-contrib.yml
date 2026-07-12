@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 18 * * *" # daily
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/3d-contrib.yml"]
 
 permissions:
   contents: write
