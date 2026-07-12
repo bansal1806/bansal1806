@@ -14,7 +14,7 @@ concurrency:
 
 jobs:
   move:
-    if: startsWith(github.event.issue.title, 'ttt|')
+    if: startsWith(github.event.issue.title, 'ttt')
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:

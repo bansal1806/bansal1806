@@ -150,7 +150,9 @@
   <tr><td><a href="https://github.com/bansal1806/bansal1806/issues/new?title=ttt%7Cmove%7C6&body=Just%20press%20'Create'%20%E2%80%94%20the%20bot%20replies%20in%20~30%20seconds!%20%F0%9F%8E%AE"><img src="assets/ttt/blank.svg" width="72" alt="play cell 6" /></a></td><td><a href="https://github.com/bansal1806/bansal1806/issues/new?title=ttt%7Cmove%7C7&body=Just%20press%20'Create'%20%E2%80%94%20the%20bot%20replies%20in%20~30%20seconds!%20%F0%9F%8E%AE"><img src="assets/ttt/blank.svg" width="72" alt="play cell 7" /></a></td><td><a href="https://github.com/bansal1806/bansal1806/issues/new?title=ttt%7Cmove%7C8&body=Just%20press%20'Create'%20%E2%80%94%20the%20bot%20replies%20in%20~30%20seconds!%20%F0%9F%8E%AE"><img src="assets/ttt/blank.svg" width="72" alt="play cell 8" /></a></td></tr>
 </table>
 
-**You are ❌ — click an empty square to play!** The bot 🤖 replies in ~30 seconds.
+**How to play (10 seconds):** 1️⃣ Click an empty square → 2️⃣ GitHub opens a pre-filled issue → 3️⃣ Just press **Create** — don't edit the title! → ♻️ Refresh this page ~30s later to see the bot's move.
+
+*You are ❌, the bot is ⭕. Best played on desktop — the GitHub mobile app may not pre-fill the move.*
 
 🧑 Humans **0** · 🤖 Bot **0** · 🤝 Draws **0** · 🎮 Games played **0**
 

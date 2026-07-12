@@ -78,7 +78,9 @@ function renderBoard(state) {
     rows.join("\n"),
     `</table>`,
     ``,
-    `**You are ❌ — click an empty square to play!** The bot 🤖 replies in ~30 seconds.`,
+    `**How to play (10 seconds):** 1️⃣ Click an empty square → 2️⃣ GitHub opens a pre-filled issue → 3️⃣ Just press **Create** — don't edit the title! → ♻️ Refresh this page ~30s later to see the bot's move.`,
+    ``,
+    `*You are ❌, the bot is ⭕. Best played on desktop — the GitHub mobile app may not pre-fill the move.*`,
     ``,
     `🧑 Humans **${s.humanWins}** · 🤖 Bot **${s.botWins}** · 🤝 Draws **${s.draws}** · 🎮 Games played **${s.games}**`,
     ``,
@@ -103,7 +105,7 @@ function main() {
   const state = JSON.parse(fs.readFileSync(BOARD_FILE, "utf8"));
   const say = (msg) => fs.writeFileSync(COMMENT_FILE, msg);
 
-  const m = title.match(/^ttt\|move\|([0-8])$/);
+  const m = title.match(/^\s*ttt\s*\|\s*move\s*\|\s*([0-8])\s*$/);
   if (!m) {
     say(`Hmm, I couldn't parse that move. Use the links on the board in my profile README! 🎮`);
     updateReadme(state);
