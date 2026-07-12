@@ -25,7 +25,7 @@
 <!-- LIVE:START -->
 <div align="center">
 
-⚡ **Live stats warming up** — refreshed automatically every 6 hours 🕒
+⚡ **Last commit:** 6 hours ago in **bansal1806** · 👥 **1** followers · 📦 **18** public repos · 🕒 *updated 12 Jul, 09:27 am IST*
 
 </div>
 <!-- LIVE:END -->
