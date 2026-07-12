@@ -1,5 +1,20 @@
 {
-  "board": ["", "", "", "", "", "", "", "", ""],
-  "stats": { "games": 0, "humanWins": 0, "botWins": 0, "draws": 0 },
-  "lastPlayer": null
+  "board": [
+    "X",
+    "",
+    "",
+    "",
+    "O",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "stats": {
+    "games": 0,
+    "humanWins": 0,
+    "botWins": 0,
+    "draws": 0
+  },
+  "lastPlayer": "bansal1806"
 }
