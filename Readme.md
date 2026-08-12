@@ -25,7 +25,7 @@
 <!-- LIVE:START -->
 <div align="center">
 
-⚡ **Last commit:** 30 days ago in **bansal1806** · 👥 **1** followers · 📦 **18** public repos · 🕒 *updated 12 Aug, 12:49 am IST*
+👥 **1** followers · 📦 **18** public repos · 🕒 *updated 12 Aug, 08:13 am IST*
 
 </div>
 <!-- LIVE:END -->
