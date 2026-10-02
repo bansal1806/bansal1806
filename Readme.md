@@ -25,7 +25,7 @@
 <!-- LIVE:START -->
 <div align="center">
 
-⚡ **Last commit:** 2 days ago in **I-Tantra** · 👥 **1** followers · 📦 **20** public repos · 🕒 *updated 2 Oct, 11:06 am IST*
+⚡ **Last commit:** 2 minutes ago in **NexIDE** · 👥 **1** followers · 📦 **20** public repos · 🕒 *updated 2 Oct, 03:27 pm IST*
 
 </div>
 <!-- LIVE:END -->
