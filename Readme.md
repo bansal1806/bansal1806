@@ -25,7 +25,7 @@
 <!-- LIVE:START -->
 <div align="center">
 
-⚡ **Last commit:** 23 minutes ago in **NexIDE** · 👥 **1** followers · 📦 **20** public repos · 🕒 *updated 5 Oct, 11:09 am IST*
+⚡ **Last commit:** 1 day ago in **NexIDE** · 👥 **1** followers · 📦 **20** public repos · 🕒 *updated 5 Oct, 04:13 pm IST*
 
 </div>
 <!-- LIVE:END -->
