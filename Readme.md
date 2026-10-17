@@ -25,7 +25,7 @@
 <!-- LIVE:START -->
 <div align="center">
 
-⚡ **Last commit:** 8 days ago in **DevForge** · 👥 **1** followers · 📦 **21** public repos · 🕒 *updated 17 Oct, 09:04 pm IST*
+⚡ **Last commit:** 1 day ago in **Portfolio** · 👥 **1** followers · 📦 **21** public repos · 🕒 *updated 18 Oct, 02:05 am IST*
 
 </div>
 <!-- LIVE:END -->
