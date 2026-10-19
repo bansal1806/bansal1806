@@ -25,7 +25,7 @@
 <!-- LIVE:START -->
 <div align="center">
 
-⚡ **Last commit:** 2 days ago in **HackJKLU-v5.0** · 👥 **1** followers · 📦 **21** public repos · 🕒 *updated 19 Oct, 02:40 pm IST*
+⚡ **Last commit:** 1 day ago in **Portfolio** · 👥 **1** followers · 📦 **21** public repos · 🕒 *updated 19 Oct, 06:43 pm IST*
 
 </div>
 <!-- LIVE:END -->
