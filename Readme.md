@@ -25,7 +25,7 @@
 <!-- LIVE:START -->
 <div align="center">
 
-⚡ **Last commit:** 18 days ago in **Portfolio** · 👥 **1** followers · 📦 **21** public repos · 🕒 *updated 11 Nov, 11:48 am IST*
+⚡ **Last commit:** 18 days ago in **Portfolio** · 👥 **1** followers · 📦 **21** public repos · 🕒 *updated 11 Nov, 04:48 pm IST*
 
 </div>
 <!-- LIVE:END -->
